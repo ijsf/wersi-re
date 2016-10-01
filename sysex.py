@@ -51,6 +51,14 @@ BlockIdentifier = enum(
 )
 
 # ==========================================================
+# WERSI SWITCHES
+#
+# [0:7]	 	-> [A:H] Function Control Matrix
+# [8:15] 	-> [1:8] Function Control Matrix
+# [16:17]	->
+# [18:37]	-> [1:20] ROM voices
+# [38:47] -> [1:10] RAM voices
+# ==========================================================
 # WERSI POINTERS
 #
 # 8-bit 76543210
